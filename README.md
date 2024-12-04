@@ -1,5 +1,5 @@
 # JavaFX_3Dcube
-Three-dimensional cube rotation and scaling using JavaFX library.
+Three-dimensional cube rotation and scaling using JavaFX library. Rotation implies showing only __visible__ side of cube.
 
 # System requirements
 Java version 23.0.1
