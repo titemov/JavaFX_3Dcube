@@ -26,6 +26,7 @@ After successful compilation just enter X, Y, Z degree and, if you want, change 
 
 ![Figure 1. Working program](https://github.com/titemov/JavaFX_3Dcube/blob/main/javafx_3dcube.png)
 
+After pressing the button you will see __projection__ of three-dimensional cube.
 
 
 
