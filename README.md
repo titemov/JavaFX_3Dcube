@@ -1,12 +1,12 @@
 # JavaFX_3Dcube
 Three-dimensional cube rotation and scaling using JavaFX library. Rotation implies showing only __visible__ side of cube.
 
-# System requirements
+## System requirements
 Java version 23.0.1
 
 JavaFX version 23.0.1
 
-# Compilation
+## Compilation
 
 1. Download latest [JavaFx](https://gluonhq.com/products/javafx/) library and extract contents.
 
@@ -20,7 +20,7 @@ JavaFX version 23.0.1
 4. After compilation run `Main` file:  
    `java --module-path {Path to your javafx lib folder} --add-modules=javafx.controls Main`
 
-# Usage
+## Usage
 
 After successful compilation just enter X, Y, Z degree and, if you want, change scale of cube. To confirm and see the result of entered values just press "Enter!" button.
 
